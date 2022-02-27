@@ -4,11 +4,12 @@ author:
 - Vecnavium
 - jojoe77777
 - Faizx511x
+- Creadores
 version: 1.6.3
 description: Slapper, the NPC plugin for PocketMine-MP
 main: slapper\Main
 api:
-- 3.28.0
+- 3.25.0
 mcpe-protocol:
 - 471
 - 475
